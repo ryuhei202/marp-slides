@@ -41,7 +41,7 @@ keywords: LINE Touch, NFC, ミニアプリ, 世界最速, 体験
 ## 2. プロダクト詳細
 ## 3. 管理画面からの設定
 ## 4. 実際の体験デモ
-## 8. まとめ
+## 5. まとめ
 
 ---
 
@@ -71,11 +71,24 @@ keywords: LINE Touch, NFC, ミニアプリ, 世界最速, 体験
 
 ---
 
+
+<!-- _class: content-image -->
+
+# 先日LINE Touchの先行体験会に行ってきました！
+
+
+11/13日（木）にLINE Touchの先行体験会にご招待していただき、LINE Touchを実際に触ってみました。
+
+<br/>
+
+![w:800px](images/line_touch_experience.jpg)
+
+---
+
 # 体験イメージ
 
 <!-- _class: image -->
 
-https://x.com/ruonp24/status/1990024706834276662?s=20 のツイートに添付した動画を添付します。
 
 ---
 
@@ -89,6 +102,7 @@ https://x.com/ruonp24/status/1990024706834276662?s=20 のツイートに添付�
 - 飲食
 - 美容・小売
 - サービス・エンタメ
+- などなど...
 
 ## **提供サービス**
 
@@ -96,8 +110,6 @@ https://x.com/ruonp24/status/1990024706834276662?s=20 のツイートに添付�
 - クーポンリストの表示
 - ショップカード起動
 - LINEミニアプリの任意のページ表示
-
-<br/>
 
 
 ## **目指す世界**
@@ -135,6 +147,7 @@ NFCタッチの検証により、QRコードの撮影・拡散による**意図�
 # LINE Touchと自前NFCの違い
 
 ## **技術的には自前NFCも可能だが...**
+
 
 <!-- _class: column-layout -->
 
@@ -234,7 +247,7 @@ NFCタッチの検証により、QRコードの撮影・拡散による**意図�
 
 ## **アクションの設定**
 
-* LINE Touchの管理画面を共有。実際にPC上でLINE Official Account Managerからアクションを設定します。
+※LINE Touchの管理画面を共有。実際にPC上でLINE Official Account Managerからアクションを設定します。
 
 ---
 
